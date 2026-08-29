@@ -1,0 +1,58 @@
+about:
+  description: 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+  license: MIT
+  homepage: https://ohmyz.sh
+  head: 4b65740
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-29T07:12:00Z
+timeline:
+  created: 2009-08-28
+  lastCommit: 2026-08-29
+  lastRelease: ?
+popularity:
+  star: 189428
+  watcher: 2694
+  fork: 26581
+  release: 0
+  contributor: 2527
+  pullRequest: 4629
+  issue: 5083
+language:
+  Shell: 1847525
+  Python: 23800
+  Makefile: 1298
+totalLine: 1872623
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 16
+    openPR: 14
+    closedIssue: 4
+    openIssue: 6
+    commit: 34
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 67
+    openPR: 37
+    closedIssue: 12
+    openIssue: 17
+    commit: 73
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 142
+    openPR: 69
+    closedIssue: 27
+    openIssue: 26
+    commit: 153
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 262
+    openPR: 109
+    closedIssue: 75
+    openIssue: 45
+    commit: 283
