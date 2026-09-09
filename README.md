@@ -5,9 +5,9 @@
 - **Upstream**: <https://github.com/ohmyzsh/ohmyzsh>
 - **Homepage**: <https://ohmyz.sh>
 - **Latest release**: `` (n/a)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 189629 · **Forks**: 26594 · **Open issues**: 5086 · **Contributors**: 2539
+- **Stars**: 189640 · **Forks**: 26583 · **Open issues**: 5087 · **Contributors**: 2541
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/ohmyzsh> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:57:39Z._
+_Last regenerated: 2026-09-09T06:10:47Z._
