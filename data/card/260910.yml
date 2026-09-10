@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:49:59Z
+  collectedAt: 2026-09-10T23:45:39Z
 timeline:
   created: 2009-08-28
   lastCommit: 2026-09-10
@@ -17,11 +17,11 @@ timeline:
 popularity:
   star: 189653
   watcher: 2688
-  fork: 26578
+  fork: 26579
   release: 0
   contributor: 2544
   pullRequest: 8340
-  issue: 5088
+  issue: 5089
 language:
   Shell: 2021661
   Python: 23800
@@ -79,13 +79,13 @@ recent:
 total:
   release: 0
   mergedPR: 3711
-  openPR: 251
-  closedIssue: 4999
+  openPR: 246
+  closedIssue: 5000
   openIssue: 89
   commit: 7918
 ---
 path: /home/runner/.x-repo/github.com/ohmyzsh/ohmyzsh
-collectedAt: 2026-09-10T17:50:10Z
+collectedAt: 2026-09-10T23:45:41Z
 loc:
   Zsh:
     code: 27868
