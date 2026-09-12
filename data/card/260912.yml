@@ -271,3 +271,4 @@ checks:
     reason: project has 61 contributing companies or organizations
     details:
       - 'Info: found contributions from: ArduPilot, BlueOS-community, Catrobat, HTML5Wiki, IBEXcps, KDE-mirror, NixOS, OpenTTD, PX4, ParsianRoboticLab, RoboCup-SSL, SUSE, TOA-Berlin-TicTacToe, alibaba, atlrug, aws-samples, bluerobotics, bluerobotics @kde @robotadasufsc @ibexcps, browse-kill-ring, caarlos0-graveyard, catppuccin, cayleygraph, cppbrasil, dgist  ilt lab, dracula, fira-simurosot, flume-cloud-services, geokit, github, gitlab, gnank, goreleaser, grisp, hsr-ba-ajw-2013, janklab, latin-language-toolkit, mavlink, mitmproxy, ohmyzsh, ohmyzsh @polkadot-api, open-incubator, openSUSE, phan, planetargon, polkadot-api, polkadot-fellows, polkadot-js, prometheus-community, python-hyper, rancher, rancher-sandbox, rancherlabs, robotadasufsc, secure-email, simplenote-vim, smokeclouds, statsd, suse, tormem, wikimedia, wikimedia foundation'
+---
