@@ -14,11 +14,11 @@ x install ohmyzsh
 
 ## Code insight
 
-Total: **56,301** lines of code across **411** files in the top 5 languages.
+Total: **56,311** lines of code across **411** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zsh | 28,128 | 6,318 | 3,754 | 383 |
+| Zsh | 28,138 | 6,318 | 3,754 | 383 |
 | Json | 21,538 | 0 | 0 | 1 |
 | Bash | 3,205 | 486 | 350 | 2 |
 | Sh | 2,865 | 818 | 500 | 18 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 189,723 · **Forks**: 26,570 · **Open issues**: 5,091 · **Contributors**: 2,546
+- **Stars**: 189,746 · **Forks**: 26,729 · **Open issues**: 5,091 · **Contributors**: 2,547
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 3723 · **Open PRs**: 237 · **Closed issues**: 5002 · **Open issues**: 89 · **Commits**: 7930
+- **Releases**: 0 · **Merged PRs**: 3724 · **Open PRs**: 231 · **Closed issues**: 5005 · **Open issues**: 86 · **Commits**: 7931
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 48 | 17 | 6 | 6 | 68 |
-| last60d | 2026-07-17 | 0 | 81 | 21 | 12 | 11 | 107 |
-| 90d | 2026-06-17 | 0 | 102 | 27 | 16 | 15 | 119 |
-| last180d | 2026-03-19 | 0 | 183 | 59 | 32 | 22 | 196 |
-| 360d | 2025-09-20 | 0 | 306 | 101 | 85 | 34 | 327 |
-| last720d | 2024-09-25 | 0 | 491 | 164 | 220 | 63 | 543 |
+| 30d | 2026-08-17 | 0 | 48 | 18 | 6 | 5 | 69 |
+| last60d | 2026-07-18 | 0 | 80 | 22 | 12 | 10 | 108 |
+| 90d | 2026-06-18 | 0 | 102 | 28 | 17 | 14 | 120 |
+| last180d | 2026-03-20 | 0 | 182 | 60 | 32 | 21 | 197 |
+| 360d | 2025-09-21 | 0 | 304 | 101 | 86 | 33 | 328 |
+| last720d | 2024-09-26 | 0 | 491 | 165 | 223 | 60 | 544 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ohmyzsh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:28:56Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:22:44Z._
