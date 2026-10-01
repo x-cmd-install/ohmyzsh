@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 189,996 · **Forks**: 28,099 · **Open issues**: 5,097 · **Contributors**: 2,560
+- **Stars**: 190,016 · **Forks**: 28,100 · **Open issues**: 5,096 · **Contributors**: 2,560
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 3763 · **Open PRs**: 218 · **Closed issues**: 5012 · **Open issues**: 85 · **Commits**: 7967
+- **Releases**: 0 · **Merged PRs**: 3763 · **Open PRs**: 218 · **Closed issues**: 5012 · **Open issues**: 84 · **Commits**: 7967
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 64 | 23 | 7 | 7 | 93 |
-| last60d | 2026-08-01 | 0 | 97 | 26 | 16 | 8 | 131 |
-| 90d | 2026-07-02 | 0 | 126 | 28 | 21 | 13 | 152 |
-| last180d | 2026-04-03 | 0 | 206 | 58 | 38 | 20 | 225 |
-| 360d | 2025-10-05 | 0 | 328 | 99 | 84 | 32 | 357 |
-| last720d | 2024-10-10 | 0 | 514 | 151 | 219 | 59 | 560 |
+| 30d | 2026-09-01 | 0 | 64 | 23 | 7 | 6 | 93 |
+| last60d | 2026-08-02 | 0 | 96 | 26 | 16 | 7 | 131 |
+| 90d | 2026-07-03 | 0 | 125 | 28 | 20 | 12 | 152 |
+| last180d | 2026-04-04 | 0 | 206 | 58 | 38 | 19 | 225 |
+| 360d | 2025-10-06 | 0 | 328 | 99 | 83 | 31 | 357 |
+| last720d | 2024-10-11 | 0 | 514 | 151 | 219 | 58 | 559 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ohmyzsh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:41:44Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:58:50Z._
