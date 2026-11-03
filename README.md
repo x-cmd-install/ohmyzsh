@@ -26,13 +26,13 @@ Total: **57,495** lines of code across **422** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.2 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **SAST** (2/10) — SAST tool is not run on all commits -- score normalized to 2
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 190,283 · **Forks**: 28,064 · **Open issues**: 5,105 · **Contributors**: 2,573
+- **Stars**: 190,291 · **Forks**: 28,069 · **Open issues**: 5,105 · **Contributors**: 2,573
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 3797 · **Open PRs**: 229 · **Closed issues**: 5023 · **Open issues**: 82 · **Commits**: 8001
+- **Releases**: 0 · **Merged PRs**: 3799 · **Open PRs**: 228 · **Closed issues**: 5023 · **Open issues**: 82 · **Commits**: 8003
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 24 | 34 | 4 | 6 | 31 |
-| last60d | 2026-09-03 | 0 | 92 | 51 | 14 | 9 | 98 |
-| 90d | 2026-08-04 | 0 | 123 | 54 | 23 | 10 | 149 |
-| last180d | 2026-05-06 | 0 | 209 | 68 | 38 | 18 | 231 |
-| 360d | 2025-11-07 | 0 | 336 | 113 | 85 | 29 | 366 |
-| last720d | 2024-11-12 | 0 | 529 | 164 | 217 | 56 | 576 |
+| 30d | 2026-10-04 | 0 | 23 | 33 | 4 | 6 | 33 |
+| last60d | 2026-09-04 | 0 | 91 | 50 | 14 | 9 | 100 |
+| 90d | 2026-08-05 | 0 | 124 | 53 | 23 | 10 | 151 |
+| last180d | 2026-05-07 | 0 | 211 | 67 | 38 | 18 | 233 |
+| 360d | 2025-11-08 | 0 | 338 | 112 | 85 | 28 | 368 |
+| last720d | 2024-11-13 | 0 | 531 | 163 | 217 | 56 | 578 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ohmyzsh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:25:51Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:09:23Z._
