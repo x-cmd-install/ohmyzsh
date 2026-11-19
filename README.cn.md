@@ -32,7 +32,7 @@ x install ohmyzsh
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **SAST** (3/10) — SAST tool is not run on all commits -- score normalized to 3
+- **SAST** (4/10) — SAST tool is not run on all commits -- score normalized to 4
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install ohmyzsh
 
 ## 流行度
 
-- **Star**: 190,643 · **Fork**: 27,282 · **开放 issue**: 5,106 · **贡献者**: 2,574
+- **Star**: 190,680 · **Fork**: 27,263 · **开放 issue**: 5,107 · **贡献者**: 2,575
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 3802 · **开放 PR**: 232 · **已关闭 issue**: 5025 · **开放 issue**: 81 · **提交数**: 8009
+- **发布数**: 0 · **已合并 PR**: 3806 · **开放 PR**: 234 · **已关闭 issue**: 5026 · **开放 issue**: 81 · **提交数**: 8013
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 14 | 23 | 4 | 4 | 11 |
-| last60d | 2026-09-17 | 0 | 56 | 46 | 12 | 6 | 58 |
-| 90d | 2026-08-18 | 0 | 115 | 55 | 20 | 9 | 148 |
-| last180d | 2026-05-20 | 0 | 197 | 69 | 39 | 17 | 226 |
-| 360d | 2025-11-21 | 0 | 333 | 114 | 80 | 26 | 360 |
-| last720d | 2024-11-26 | 0 | 526 | 165 | 214 | 55 | 573 |
+| 30d | 2026-10-20 | 0 | 14 | 26 | 5 | 4 | 15 |
+| last60d | 2026-09-20 | 0 | 53 | 48 | 11 | 6 | 62 |
+| 90d | 2026-08-21 | 0 | 118 | 57 | 20 | 9 | 152 |
+| last180d | 2026-05-23 | 0 | 201 | 71 | 40 | 17 | 230 |
+| 360d | 2025-11-24 | 0 | 333 | 115 | 81 | 25 | 364 |
+| last720d | 2024-11-29 | 0 | 529 | 167 | 215 | 55 | 576 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ ohmyzsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:29:50Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:15:27Z._

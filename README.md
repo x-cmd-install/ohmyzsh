@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **SAST** (3/10) — SAST tool is not run on all commits -- score normalized to 3
+- **SAST** (4/10) — SAST tool is not run on all commits -- score normalized to 4
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 190,643 · **Forks**: 27,282 · **Open issues**: 5,106 · **Contributors**: 2,574
+- **Stars**: 190,680 · **Forks**: 27,263 · **Open issues**: 5,107 · **Contributors**: 2,575
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 3802 · **Open PRs**: 232 · **Closed issues**: 5025 · **Open issues**: 81 · **Commits**: 8009
+- **Releases**: 0 · **Merged PRs**: 3806 · **Open PRs**: 234 · **Closed issues**: 5026 · **Open issues**: 81 · **Commits**: 8013
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 14 | 23 | 4 | 4 | 11 |
-| last60d | 2026-09-17 | 0 | 56 | 46 | 12 | 6 | 58 |
-| 90d | 2026-08-18 | 0 | 115 | 55 | 20 | 9 | 148 |
-| last180d | 2026-05-20 | 0 | 197 | 69 | 39 | 17 | 226 |
-| 360d | 2025-11-21 | 0 | 333 | 114 | 80 | 26 | 360 |
-| last720d | 2024-11-26 | 0 | 526 | 165 | 214 | 55 | 573 |
+| 30d | 2026-10-20 | 0 | 14 | 26 | 5 | 4 | 15 |
+| last60d | 2026-09-20 | 0 | 53 | 48 | 11 | 6 | 62 |
+| 90d | 2026-08-21 | 0 | 118 | 57 | 20 | 9 | 152 |
+| last180d | 2026-05-23 | 0 | 201 | 71 | 40 | 17 | 230 |
+| 360d | 2025-11-24 | 0 | 333 | 115 | 81 | 25 | 364 |
+| last720d | 2024-11-29 | 0 | 529 | 167 | 215 | 55 | 576 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ohmyzsh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:29:48Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:15:26Z._
