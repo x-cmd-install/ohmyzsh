@@ -14,14 +14,14 @@ x install ohmyzsh
 
 ## Code insight
 
-Total: **57,535** lines of code across **423** files in the top 5 languages.
+Total: **57,625** lines of code across **425** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zsh | 29,282 | 6,398 | 3,853 | 395 |
+| Zsh | 29,372 | 6,405 | 3,872 | 397 |
 | Json | 21,538 | 0 | 0 | 1 |
 | Bash | 3,205 | 486 | 350 | 2 |
-| Sh | 2,945 | 839 | 508 | 18 |
+| Sh | 2,945 | 840 | 508 | 18 |
 | Python | 500 | 100 | 99 | 7 |
 
 ## OpenSSF Scorecard
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **SAST** (4/10) — SAST tool is not run on all commits -- score normalized to 4
+- **SAST** (3/10) — SAST tool is not run on all commits -- score normalized to 3
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 190,777 · **Forks**: 27,172 · **Open issues**: 5,107 · **Contributors**: 2,575
+- **Stars**: 190,872 · **Forks**: 27,176 · **Open issues**: 5,109 · **Contributors**: 2,577
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 3806 · **Open PRs**: 238 · **Closed issues**: 5026 · **Open issues**: 81 · **Commits**: 8013
+- **Releases**: 0 · **Merged PRs**: 3811 · **Open PRs**: 237 · **Closed issues**: 5026 · **Open issues**: 83 · **Commits**: 8018
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 14 | 29 | 5 | 3 | 12 |
-| last60d | 2026-09-23 | 0 | 47 | 52 | 10 | 6 | 45 |
-| 90d | 2026-08-24 | 0 | 113 | 61 | 19 | 9 | 139 |
-| last180d | 2026-05-26 | 0 | 196 | 75 | 40 | 17 | 215 |
-| 360d | 2025-11-27 | 0 | 332 | 119 | 77 | 24 | 358 |
-| last720d | 2024-12-02 | 0 | 529 | 171 | 214 | 55 | 576 |
+| 30d | 2026-10-24 | 0 | 19 | 27 | 4 | 5 | 17 |
+| last60d | 2026-09-24 | 0 | 51 | 50 | 9 | 8 | 50 |
+| 90d | 2026-08-25 | 0 | 117 | 60 | 19 | 11 | 144 |
+| last180d | 2026-05-27 | 0 | 201 | 74 | 40 | 19 | 220 |
+| 360d | 2025-11-28 | 0 | 336 | 118 | 77 | 26 | 363 |
+| last720d | 2024-12-03 | 0 | 534 | 170 | 214 | 57 | 581 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ohmyzsh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:21:41Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:54:37Z._
