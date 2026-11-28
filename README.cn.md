@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 [![x-cmd/install — ohmyzsh Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ohmyzsh.svg?lang=zh)](https://x-cmd.com/install/ohmyzsh)
 
@@ -14,19 +14,19 @@ x install ohmyzsh
 
 ## 代码洞察
 
-合计: **58,060** 行代码（覆盖前 5 种语言、共 **431** 个文件）。
+合计: **58,504** 行代码（覆盖前 5 种语言、共 **434** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Zsh | 29,807 | 6,463 | 3,921 | 403 |
+| Zsh | 30,224 | 6,514 | 3,976 | 406 |
 | Json | 21,538 | 0 | 0 | 1 |
 | Bash | 3,205 | 486 | 350 | 2 |
-| Sh | 2,945 | 840 | 508 | 18 |
+| Sh | 2,972 | 841 | 509 | 18 |
 | Python | 500 | 100 | 99 | 7 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8 / 10**
+总评分: **8.1 / 10**
 
 评分最低的几项:
 
@@ -42,22 +42,22 @@ x install ohmyzsh
 
 ## 流行度
 
-- **Star**: 190,939 · **Fork**: 27,126 · **开放 issue**: 5,111 · **贡献者**: 2,592
+- **Star**: 190,883 · **Fork**: 27,063 · **开放 issue**: 5,112 · **贡献者**: 2,607
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 3845 · **开放 PR**: 114 · **已关闭 issue**: 5040 · **开放 issue**: 71 · **提交数**: 8053
+- **发布数**: 0 · **已合并 PR**: 3869 · **开放 PR**: 76 · **已关闭 issue**: 5075 · **开放 issue**: 37 · **提交数**: 8077
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 28 | 26 | 5 | 5 | 51 |
-| last60d | 2026-09-28 | 0 | 64 | 46 | 13 | 6 | 84 |
-| 90d | 2026-08-29 | 0 | 135 | 58 | 21 | 9 | 178 |
-| last180d | 2026-05-31 | 0 | 218 | 68 | 42 | 17 | 254 |
-| 360d | 2025-12-02 | 0 | 359 | 82 | 80 | 23 | 397 |
-| last720d | 2024-12-07 | 0 | 567 | 91 | 222 | 50 | 616 |
+| 30d | 2026-10-29 | 0 | 37 | 25 | 9 | 2 | 75 |
+| last60d | 2026-09-29 | 0 | 71 | 34 | 17 | 2 | 108 |
+| 90d | 2026-08-30 | 0 | 143 | 46 | 26 | 5 | 202 |
+| last180d | 2026-06-01 | 0 | 231 | 50 | 51 | 9 | 278 |
+| 360d | 2025-12-03 | 0 | 378 | 60 | 90 | 14 | 421 |
+| last720d | 2024-12-08 | 0 | 589 | 65 | 252 | 21 | 640 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ ohmyzsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:55:52Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:31:54Z._
